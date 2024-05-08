@@ -2,7 +2,7 @@
 # indexing[] and slice()
 # [start : stop : step] for indexing
 # (start,stop,step) for slicing
-# Thy can also have negative index.
+# Thy can also have negative index
 
 name = "GauravKumarTiwari"
 first_name = name[0:6]
@@ -21,7 +21,7 @@ slice = slice(7,-4)
 print (website[slice])
 print(website2[slice])
 
-#if, elif and else statement.
+#if, elif and else statement in python
 age = int(input("What is your age?"))
 print(age)
 if age == 100:
